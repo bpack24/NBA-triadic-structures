@@ -1,4 +1,5 @@
 # NBA-triadic-structures
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15221025.svg)](https://doi.org/10.5281/zenodo.1522125)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/1_2.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/3_4.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/5_6.drawio.png)
@@ -14,4 +15,3 @@
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/25_26.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/27_28.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/29_30.drawio.png)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15221025.svg)](https://doi.org/10.5281/zenodo.1522125)
