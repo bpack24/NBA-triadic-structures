@@ -4,7 +4,7 @@
 ## Dataset Description
 - **Total Triads**: 30 
 - **Social Media Sources**: Twitter/X, Reddit, Instagram, YouTube
-- **Time Period**: 2024 NBA Regular Season (Oct 2023 - Apr 2024)
+- **Time Period**: Data collected Jan 2025 - Apr 2025
 - **File Formats**: PNG
 
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/1_2.drawio.png)
