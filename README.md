@@ -31,6 +31,6 @@
      title = {NBA Fan Sentiment Triad Dataset},
      publisher = {GitHub},
      version = {1.0},
-     doi = {10.5281/zenodo.XXXXXX}
+     doi = {10.5281/zenodo.1522125}
    }
    ```
