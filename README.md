@@ -1,5 +1,12 @@
 # NBA-triadic-structures
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15221025.svg)](https://doi.org/10.5281/zenodo.1522125)
+**DOI Badge**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15221025.svg)](https://doi.org/10.5281/zenodo.1522125)
+
+## Dataset Description
+- **Total Triads**: 30 
+- **Social Media Sources**: Twitter/X, Reddit, Instagram, YouTube
+- **Time Period**: 2024 NBA Regular Season (Oct 2023 - Apr 2024)
+- **File Formats**: PNG
+
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/1_2.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/3_4.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/5_6.drawio.png)
@@ -15,3 +22,15 @@
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/25_26.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/27_28.drawio.png)
 ![ezcv logo](https://github.com/bpack24/NBA-triadic-structures/blob/main/triangle%20images/29_30.drawio.png)
+
+
+```bibtex
+   @dataset{nba_triads_2024,
+     author = {Victor, Delsen and Reyes, Krystian and Injarapu, Ashwin},
+     year = 2024,
+     title = {NBA Fan Sentiment Triad Dataset},
+     publisher = {GitHub},
+     version = {1.0},
+     doi = {10.5281/zenodo.XXXXXX}
+   }
+   ```
