@@ -1,5 +1,5 @@
 # NBA-triadic-structures
-**DOI Badge**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15221025.svg)](https://doi.org/10.5281/zenodo.1522125)
+**DOI Badge**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15221026.svg)](https://doi.org/10.5281/zenodo.15221026)
 
 ## Dataset Description
 - **Total Triads**: 30 
@@ -31,6 +31,6 @@
      title = {NBA Fan Sentiment Triad Dataset},
      publisher = {GitHub},
      version = {1.0},
-     doi = {10.5281/zenodo.1522125}
+     doi = {10.5281/zenodo.15221026}
    }
    ```
